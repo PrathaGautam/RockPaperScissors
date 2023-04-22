@@ -35,10 +35,3 @@ elif user_full_choice == "Scissors":
         print("Scissors cut papers. You win!")
     elif computers_weapon == "Rock":
         print("Rock beats scissors. Computer wins, you lose!")
-
-
-
-
-
-
-
